@@ -1,6 +1,7 @@
 Remarks
 =====
-* The pin table is very useful
+* The pin table is very useful as foolowing place
+* "bonescript/src/bone.js"
 
 BoneScript
 ==========
