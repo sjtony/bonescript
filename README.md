@@ -1,3 +1,7 @@
+Remarks
+=====
+* The pin table is very useful
+
 BoneScript
 ==========
 
